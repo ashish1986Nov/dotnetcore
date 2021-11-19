@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/BookStoreDemo/obj
+/BookStoreDemo/.vs/BookStoreDemo/v16
